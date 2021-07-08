@@ -1,2 +1,2 @@
-# DBS SEED
- DBS-SEED Training Notes
+# Financial Notes
+Financial Training Notes
