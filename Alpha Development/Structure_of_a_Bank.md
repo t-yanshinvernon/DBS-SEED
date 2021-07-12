@@ -1,4 +1,4 @@
-# Structure of a Bank - DBS SEED Programme 2021
+# Structure of a Bank
 
 ## What is a Market
  
