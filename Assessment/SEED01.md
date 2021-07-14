@@ -135,8 +135,11 @@ VaR = Portfolio x Standard Deviation x Volatility
 Given that we hold a $10mm position in a single stock and its volatility is 16% annually.
 
 What is the 99% 1-day Var? What if the time horizon is extended to 5-days?
+
 99% One-Tail = 2.326
+
 95% One-Tail = 1.645
+
 Volatility_daily = 0.16 / sqrt(252)
 VaR = $10mm * 2.326 * Volatility_daily
 
