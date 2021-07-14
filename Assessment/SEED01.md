@@ -101,6 +101,15 @@ Capital Ratio = CET1 / RWA
 * Reputational Risk
   * Arises from an event that might cause a negative stakeholder perception of the bank's image
 
+### Investment Banking & Risk
+Qns. What strategies can the bank implement to try to retain business relations with the client whilst limiting the potential of loss if the client defaults?
+
+Ans. Collateral
+
+### Special Operational Risk
+Rogue trader risk is a special operational risk
+
+
 ## Example Stress Test Scenario
 * Government Bonds
   * Yields drop by 200 b.p.
