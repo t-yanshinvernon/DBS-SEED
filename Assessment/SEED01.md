@@ -99,7 +99,7 @@ Capital Ratio = CET1 / RWA
   * Arises from unable to meet its financial obligations as they fall due
 * Operational Risk
 * Reputational Risk
-*  Arises from an event that might cause a negative stakeholder perception of the bank's image
+  * Arises from an event that might cause a negative stakeholder perception of the bank's image
 
 ## Example Stress Test Scenario
 * Government Bonds
@@ -158,8 +158,3 @@ TechFin
 ### Signing
 
 
-*Customer segmentation Slide 29
-Demographics:   Age, education, annual income
-Psychographics(profile): 
-Geography:
-Behavioural: Daily neccessities, sales
