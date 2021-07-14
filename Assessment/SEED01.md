@@ -135,7 +135,8 @@ VaR = Portfolio x Standard Deviation x Volatility
 Given that we hold a $10mm position in a single stock and its volatility is 16% annually.
 
 What is the 99% 1-day Var? What if the time horizon is extended to 5-days?
-
+99% One-Tail = 2.326
+95% One-Tail = 1.645
 Volatility_daily = 0.16 / sqrt(252)
 VaR = $10mm * 2.326 * Volatility_daily
 
@@ -165,5 +166,58 @@ TechFin
 > Improve existing user experiences or capabilities within the financial services industry. E.g. Straight-through processing (STP)
 
 ### Signing
+Techfin examples: Baidu, ANT, tencent
 
+Fintech examples: Xero, karan
+
+Alipay is a combination of both fintech and techfin
+
+Fintech landscape:
+Roboadvisers & Personal finance,
+Insurtech
+Regtech
+Blockchain & Crypto
+Digital Bank
+Payment & remittance
+Alternate lending
+
+P2P - lending
+- earn through fees
+-  risk :Fraud
+-  
+KYC = know your client
+
+Blockchain application:
+crypto
+smart contracts
+Record sharing and storing
+Regulatory techonology
+B2b and cross border payment
+
+Security Innovation to counter
+- large private key, few terabytes
+- Post Quantum encryption
+- Hardware authentication
+- Hardware encryption
+- Analyse user behaviours
+- Use ML/AI to monitor server, data centres
+- adaptive authentication: Select authentication means by situation
+then u got speech analytics
+- Keyword recognition: NLP
+- Sentiment analysis
+    - Sentiment, Emotion, Tone
+Sentiment analysis can be done using lexicon, choice of lexicon matters
+weakness is that lexicon do not take into account qualifers that changes meaning of the word, Eg "Not Good"
+pros of speech authentication
+- Unique to individuals
+- Prevent frauds, impersonation attempts
+- When used along side other function as micro service, less clunky than existing measures
+Cons:
+- Not foolproof enough to be used alone
+Open Banking:
+- expose functionality of bank to external users via api
+- purpose is to give power back to the customer to let them choose how they want to use their data
+- PSD2
+Roboadviser
+- class of financial adviser that provides financial advice or investment management online with moderate to little human involvment
 
