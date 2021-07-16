@@ -129,6 +129,7 @@ Alternative assets improve diversification
 >An alternative to traditional investments.
 
 Page 35.
+
 Diversification meets client assets needs
 
 Page 38.
