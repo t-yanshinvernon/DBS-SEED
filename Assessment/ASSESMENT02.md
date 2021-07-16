@@ -118,7 +118,11 @@ Junk also known as high yield
 C is the worst credit rating that hasn't defaulted
 
 Page 32.
+
 Alternative assets improve diversification
 
 Page 38.
-Structured Products not to be confused with structured loan, which is when client uses equity portfolio as collateral to secure loan.
+
+Structured products are financial instruments whose performance or value is linked to that of an underlying asset, product, or index.
+
+>Not to be confused with structured loan, which is when client uses equity portfolio as collateral to secure loan.
