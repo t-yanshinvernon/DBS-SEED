@@ -108,3 +108,16 @@ Active vs. Passive
 Page 18. Active funds are favoured by clients who believe markets are inefficient and can be beaten. 
 
 They think prices are wrong, they can predict the stocks and beat the market.
+
+Page 28.
+
+Yield increases as credit risk gets worse
+
+Junk also known as high yield
+
+> Anything below BBB are considered Non-investment grade, while anything above it are considered Investment grade
+
+C is the worst credit rating that hasn't defaulted
+
+Page 32.
+Alternative assets improve diversification
