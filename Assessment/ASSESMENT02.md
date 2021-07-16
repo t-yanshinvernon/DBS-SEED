@@ -126,3 +126,7 @@ Page 38.
 Structured products are financial instruments whose performance or value is linked to that of an underlying asset, product, or index.
 
 >Not to be confused with structured loan, which is when client uses equity portfolio as collateral to secure loan.
+
+Page 40.
+
+Capital protected - very common structured product.
