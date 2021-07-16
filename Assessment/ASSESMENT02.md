@@ -93,13 +93,16 @@ How do we achieve this?
 >Preservation of wealth
 
 ## PB Products & Clients
-Page 7, FX Forward pips show difference between spot and forward price
+### Outright Forward Deals
+FX Forward pips show difference between spot and forward price.
 
-Page 10, Mutual funds are open ended.
+### Collective Investment Schemes
+Mutual funds are open ended.
 
-Page 11, Some funds allow you to trade 'on margin' which gives you much greater 'leverage'
+### Regulated Funds
+Some funds allow you to trade 'on margin' which gives you much greater 'leverage'.
 
-Page 16, Active funds is expensive, with high management fees.
+### Active vs Passive Funds
 
 | Passive | Active |
 | ------ | ------- |
@@ -108,35 +111,41 @@ Page 16, Active funds is expensive, with high management fees.
 | IT intensive        | Growth, Value, Income   |
 | lower mgmt. fees        | higher mgt. fees   |
 
-Page 18. Active funds are favoured by clients who believe markets are inefficient and can be beaten. 
+>Active funds is expensive, with high management fees.
 
-They think prices are wrong, they can predict the stocks and beat the market.
+### Benchmarking Active and Passive Funds
 
-Page 28.
+Active funds are favoured by clients who believe markets are inefficient and can be beaten. 
 
-Yield increases as credit risk gets worse
+They think prices are wrong and that they can predict the stocks and beat the market.
 
-Junk also known as high yield
+### Credit Rating Agencies
 
+* Yield increases as credit risk gets worse
+* Junk also known as high yield
+* C is the worst credit rating that hasn't defaulted
+* 
 > Anything below BBB are considered Non-investment grade, while anything above it are considered Investment grade
 
-C is the worst credit rating that hasn't defaulted
+### Alternative Investments
 
-Page 32.
+Alternative assets improve diversification.
+>An alternative to traditional investments
 
-Alternative assets improve diversification
->An alternative to traditional investments.
+### Asset Selection
 
-Page 35.
+* Diversification should reduce risk.
+* Greater risk should only be taken for greater potential return.
+* Risk is most easily quantified as volatility.
 
-Diversification meets client assets needs
+>Diversification should always meet client assets needs
 
-Page 38.
+### Structured Products
 
 Structured products are financial instruments whose performance or value is linked to that of an underlying asset, product, or index.
 
 >Not to be confused with structured loan, which is when client uses equity portfolio as collateral to secure loan.
 
-Page 40.
+### Structured Products: Styles
 
 Capital protected - very common structured product.
