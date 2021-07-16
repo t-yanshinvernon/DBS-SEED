@@ -119,3 +119,6 @@ C is the worst credit rating that hasn't defaulted
 
 Page 32.
 Alternative assets improve diversification
+
+Page 38.
+Structured Products not to be confused with structured loan, which is when client uses equity portfolio as collateral to secure loan.
