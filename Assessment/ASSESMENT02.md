@@ -16,7 +16,7 @@ Process of dividing a broad consumer market into sub-groups of consumers based o
   * Spending, consumption, usage and desired benefits
   
 Why is it important?
-> Target consumers with specific needs and wants. Able to use corporate resources more effectively and make better strategic marketing decisions.
+* Target consumers with specific needs and wants. Able to use corporate resources more effectively and make better strategic marketing decisions.
 
 ### Investment Advice
 Know your customers
@@ -26,11 +26,9 @@ Risk Tolerance
 >Degree of variability in investment returns that an individual is willing to stand. (Returns and Volatility)
 
 ### Maximising Returns and Minimizing Risk
->Equities are more volatile than bonds.
-
->US government debts are a good choice for low-risk investor.
-
->Medium-dated US government bonds are good for short term low risk investors
+* Equities are more volatile than bonds.
+* US government debts are a good choice for low-risk investor.
+* Medium-dated US government bonds are good for short term low risk investors
 
 ### Cognitive Errors due to Mental "Short Cuts".
 Many of our human behaviours are caused by **hueristic biases**.
