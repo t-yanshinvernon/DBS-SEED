@@ -102,6 +102,12 @@ Page 11, Some funds allow you to trade 'on margin' which gives you much greater 
 Page 16, Active funds is expensive, with high management fees.
 
 Active vs. Passive
+| Active | Passive |
+| ------ | ------- |
+| Match a benchmark, usually an index        | bets against index   |
+| little research used        | consumes research   |
+| IT intensive        | Growth, Value, Income   |
+| lower mgmt. fees        | higher mgt. fees   |
 
 Page 18. Active funds are favoured by clients who believe markets are inefficient and can be beaten. 
 
@@ -120,6 +126,10 @@ C is the worst credit rating that hasn't defaulted
 Page 32.
 
 Alternative assets improve diversification
+>An alternative to traditional investments.
+
+Page 35.
+Diversification meets client assets needs
 
 Page 38.
 
