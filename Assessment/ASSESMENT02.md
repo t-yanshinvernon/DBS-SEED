@@ -97,4 +97,6 @@ How do we achieve this?
 ## PB Products & Clients
 Page 7, FX Forward pips show difference between spot and forward price
 
-Page 10, Mutual funds are open ended
+Page 10, Mutual funds are open ended.
+
+Page 11, Some funds allow you to trade 'on margin' which gives you much greater 'leverage'
