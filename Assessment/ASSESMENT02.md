@@ -101,8 +101,7 @@ Page 11, Some funds allow you to trade 'on margin' which gives you much greater 
 
 Page 16, Active funds is expensive, with high management fees.
 
-Active vs. Passive
-| Active | Passive |
+| Passive | Active |
 | ------ | ------- |
 | Match a benchmark, usually an index        | bets against index   |
 | little research used        | consumes research   |
