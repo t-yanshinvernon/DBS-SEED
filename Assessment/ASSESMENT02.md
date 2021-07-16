@@ -4,7 +4,7 @@
 
 ### Customer Segmentation
 
-Process of dividing a broad consume market into sub-groups of consumers based on:
+Process of dividing a broad consumer market into sub-groups of consumers based on:
 
 * Demographics
   * Age, race, gender, income
@@ -12,7 +12,7 @@ Process of dividing a broad consume market into sub-groups of consumers based on
   * Social class, lifestyle, personality, characteristics
 * Geography
   * Where they live and work at (location)
-* Beheavioural
+* Behavioural
   * Spending, consumption, usage and desired benefits
   
 Why is it important?
@@ -93,3 +93,8 @@ How do we achieve this?
 >'Preservation' is the first stage in the lifecycle of a client
 
 >Preservation of wealth
+
+## PB Products & Clients
+Page 7, FX Forward pips show difference between spot and forward price
+
+Page 10, Mutual funds are open ended
