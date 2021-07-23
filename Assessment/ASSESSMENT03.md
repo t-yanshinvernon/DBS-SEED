@@ -75,3 +75,16 @@ Exchange:
   - The opposite is backwardation. When would an equity futures price be backwardated? Negative Outlook.
 5. Pricing Swaps - PV of fixed leg must equal PV of floating leg, at inception.
 6. Forward rate is the best estimate.
+
+1. Which of the following statements is most likely to be false about equities traded on most stock exchanges? Market is likely to be quote driven.
+2. What is a key difference between a forward contract and a futures contract? A forward contract can be customized to a client's requirements, but a futures contract is standardized.
+3. A Japanese company imports goods from Europe (which they pay for in Euros) and sells them to local customers (priced in Yen). They would like to hedge the costs of their imports. Which of these transactions would be suitable for this? Forward purchase of Euro versus selling Yen.
+4. Which of the following best describes a "market limit" order? Fill the trade at the best price(s) in the market.
+5. What of the following is true about the Capital Market versus the Banking market? The capital market allows buyers and sellers to trade in the secondary market.
+6. A corporate treasury has cash deposits of SGD 50mm which they want to invest in a safe place and earn acceptable returns. Which of the following investments seems most appropriate for this client? Commercial Paper.
+7. Which of the following is not an equity or equity-linked products? Floating Rate Note.
+8. A wealth management client buys a call option on a stock. Which of the following statements is true? their downside is limited to the cost of the option.
+9. A corporate client is choosing between equity and debt financing. Which of the following is not a relevant consideration? Legal Fees.
+10. A corporate client raises money for their business by issuing a bond. It pays investors a fixed rate of interest of 4% per annum. What is the name given to this fixed rate? Coupon Rate.
+11. Which of the following classes of Capital markets products is issued with the shortest legal maturity? Money Market - Bills.
+12. A 10 year government bond has a coupon of 2% (paid annually), nominal value of 100 and a market price of 90. If an investor buys this bond what is the annual cash flow which they will receive? 2.0
