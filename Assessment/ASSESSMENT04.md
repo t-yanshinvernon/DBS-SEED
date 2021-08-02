@@ -1,60 +1,70 @@
 # Corporate Banking
-accounting equation
-- total assets = total liabilities and equity
 
-a company sells on credit. the goods sold were also bought on credit by 
-the company. what is the accounting treatment?
-- sales up, cost of goods sold up, inventories down, accounts
-  receivable up
+## Slide 2.
+Accounting equation
+* Total Assets = Total Liabilities + Total Equity
 
-a company sells inventory. what effect does the sale have?
-- cash or debtors up, inventory down, profits up
+Asset Sales
+* The assets being financed to effect repayment e.g. seasonal inventories, trade debtors
 
-define a syndicated loan
-- a large loan with a defined term
+Cash Flow
+* The assets being financed will be used by the business to generate sales which in turn will be converted into cash flow in order to service the debt.
 
-what are not the features of a private placement
-- public rating required
+Refinancing
+* Considered at outset - often dependent on the business exhibiting strong cash flows or assets that might be liquidated
 
-this instrument is very flexible, term less than 9 months, a discount
-instrument, unsecured
-- commercial paper
+Third Party Support
+* Usually offered by a Parent or Significant Operating Subsidiary within a Group
+* Government support?
 
-what is a convertible bond
-- a bond with a call option
+Collateral
+* Needs to be easy to take, easy to value, easy to realise
 
-what type of covenant is a negative pledge or a cross default
-- non-financial covenant
+Debt Products less than one year (short term)
+* Working capital facility
+* Revolving credit facility
+* Letter of credit
+* Commercial paper
 
-collateral needs to be
-- easy to take, easy to value, easy to realise
+Debt products greater than one year (long term)
+* Syndicated Loans (a large loan with a defined term)
+* Private placement
+* Commercial mortgages
 
-things to keep in mind
-- understand what an option is
-    - the right but not the obligation
-- debt products and their maturity
-    - short term
-        - working capital
-        - revolving credit
-        - letter of credit
-        - commercial paper
-    - long term
-        - syndicated loans
-        - private placement
-        - commercial loan/mortgages
-- private placement
-    - features of private placement
-        - covenants can be strict despite it being private
-        - more openness/willingness to deal with companies that have
-          gone out of favour? shit credit rating?
-- debt vs equity
-    - debt is cheaper, tax shields, higher risk of default and
-      bankruptcy
-- convertible bonds
-- working capital financing
-    - invoice discounting
-    - some other shit i missed lol
+Adventages of Debt:
+* Tax Shield -as a company takes on more debt, the value of the tax shield increases. Additionally, the higher tax rate of a firm, the more valuable the tax shields.
 
+Bank appointed to run books during syndication execution.
+>High profile role generally considered most desirable syndication task.
+
+## Slide 30
+Term Loan - with bullet, armotising, balloon, or structured repayment
+
+## Slide 34
+Private Placements
+* The term debt alternative to bank financing for issuers who are unrated, or for some other reason not able or willing to efficiently tap the public bond market
+* No ratings required
+* No need to reconciled to specific GAAP requirements
+* Confidentiality of sensitive information
+* Market Access for complex credits
+* Market Access for out of favour industries
+* Smaller issuance size allowed
+* **Good for companies in weak sector but with good credit fundamentals.**
+## Slide 46
+Convertible Bond
+* Straight bond, but with a call option
+
+## Reasons to incorporate convenants into loans
+* Restrict borrower from entering into difficulties
+* Trigger default event if convenant breached
+* Provide warnings of borrower difficulty
+
+## Maintenance and Incurrence
+* Maintain a financial metric
+* Ratio based:
+  * Minimum levels of metrics such as profit, cash flow & liquidity
+* Maximum levels of ratios such as leverage or total debt etc.
+* Typically tested at each Balanace Sheet Date
 # Trade Finance and Cash management
 ## Slide 7
 
@@ -152,3 +162,10 @@ FX:
 ## Slide 8
 
 Trade Enrichment adds details to a trade
+
+## Slide 39
+
+Types of Risk
+* STP - Straight Through Processing
+  * Help reduce operational risk
+* Life cycle of trade risk is part of operational risk
