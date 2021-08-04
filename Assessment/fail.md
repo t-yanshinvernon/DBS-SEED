@@ -104,10 +104,10 @@
   * **Common stock**
   
 * Which of the following best describes the difference between bank loan and capital market bond?
-* Bank loan maturity is typically longer than bond maturity
-* Bonds are issued for smaller amounts than for loans
-* **Bonds have fewer and less detailed covenants than loans**
-* Companies prefer bonds because of the potential relationship with investors
+  * Bank loan maturity is typically longer than bond maturity
+  * Bonds are issued for smaller amounts than for loans
+  * **Bonds have fewer and less detailed covenants than loans**
+  * Companies prefer bonds because of the potential relationship with investors
 
 * A wealth management client buys a call option on a stock. Which of the following statements is true?
   * **Their downside is limited to the cost of the option**
@@ -116,10 +116,10 @@
   * **Face Value**
 
 * What is an REIT
-  * Real Estate Investment Trust
+  * **Real Estate Investment Trust**
 
 * Which of the following financial instruments could a corporate client use to convert a bank loan into a fixed rate borrowing?
-* Interest rate swap
+  * **Interest rate swap**
 
 * Which of the following is not a reason for why investors are interested in investing in bonds?
   * Bonds offer investors "fixed income" though not necassarily "fixed returns"
